@@ -1,1 +1,1 @@
-# Odoo-Trainig-
+# Odoo-Trainig
